@@ -1,7 +1,7 @@
 # Utsav Awasthi 
 (Email: utsav.awasthi@uconn.edu)
 
-<img src="/Photo.jpg" width="500" height="500">
+<img src="/Photo.jpg" width="" height="">
 
 [Curriculam Vitae](<embed src="CV_Utsav_Awasthi.pdf" type="application/pdf" width="100%" height="600px" />) | [LinkedIn](https://www.linkedin.com/in/utsavavasthi/)| [Google Scholar](https://scholar.google.com/citations?user=8GIAICkAAAAJ&hl=en&oi=ao) | [Github](https://github.com/UtsavAwasthi)
 
