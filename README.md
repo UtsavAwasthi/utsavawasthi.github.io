@@ -13,3 +13,5 @@ My current research work lies in system health monitoring in the manufacturing i
 ## Publications
 
 ## Conference and Poster Presentation 
+
+- [Physics-based modeling and information-theoretic sensor and settings selection for tool wear detection in precision machining. Journal of Manufacturing Processes, 81, 127–140](https://doi.org/10.1016/j.jmapro.2022.06.027)\
