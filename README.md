@@ -18,7 +18,7 @@ My current research work lies in system health monitoring in the manufacturing i
 - ***Awasthi, U.***, Palmer, K. A., and Bollas, G. M (2020). [Optimal test and sensor selection for active fault diagnosis using integer programming. Journal of Process Control.](https://doi.org/10.1016/j.jprocont.2020.06.007)
 - ***Awasthi, U.***, and Bollas, G. M (2020). [Sensor network design for smart manufacturing – Application on precision machining. IFAC-PapersOnLine.](https://doi.org/10.1016/j.ifacol.2020.12.581)
 
-## Conference and Poster Presentation 
+## Conference and Poster Presentations
 
 - ***Awasthi, U.***, and Bollas, G. M (2023). Symbolic regression-based method for developing a physics-informed surrogate model for a manufacturing process, $33^{rd}$ European Symposium on Computer-Aided Process Engineering, Athens, Greece.
 - ***Awasthi, U.***, and Bollas, G. M (2023). Application of grey-box modeling for machine state prediction in manufacturing, Foundations of Computer Aided Process Operations/Chemical Process Control, San Antonio, USA.
