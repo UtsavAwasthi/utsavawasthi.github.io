@@ -19,3 +19,5 @@ My current research work lies in system health monitoring in the manufacturing i
 - ***Awasthi, U.***, and Bollas, G. M (2020). [Sensor network design for smart manufacturing – Application on precision machining. IFAC-PapersOnLine.](https://doi.org/10.1016/j.ifacol.2020.12.581)
 
 ## Conference and Poster Presentation 
+
+- ***Awasthi, U.***, and Bollas, G. M (2023).[Symbolic regression-based method for developing a physics-informed surrogate model for a manufacturing process, $33^{rd}$ European Symposium on Computer-Aided Process Engineering, Athens, Greece.]
