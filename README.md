@@ -21,3 +21,16 @@ My current research work lies in system health monitoring in the manufacturing i
 ## Conference and Poster Presentation 
 
 - ***Awasthi, U.***, and Bollas, G. M (2023). Symbolic regression-based method for developing a physics-informed surrogate model for a manufacturing process, $33^{rd}$ European Symposium on Computer-Aided Process Engineering, Athens, Greece.
+- ***Awasthi, U.***, and Bollas, G. M (2023). Application of grey-box modeling for machine state prediction in manufacturing, Foundations of Computer Aided Process Operations/Chemical Process Control, San Antonio, USA.
+- ***Awasthi, U.***, and Bollas, G. M. (2022). Physics-Informed Surrogate Models for Manufacturing Applications, AIChE, Phoenix, USA.
+- ***Awasthi, U.***, Pattipati, K. R., and Bollas, G. M. (2022). Physics-Inspired inferential sensor for tool wear classification in milling, Advanced Manufacturing and Processing Conference,  Bethesda, MD, USA.
+- ***Awasthi, U.***, and Bollas, G. M. (2022). Digital twin and surrogate model for tool wear prediction, Student Association of Graduate Engineers, University of Connecticut, Storrs, USA. 
+- ***Awasthi, U.***, and Bollas, G. M. (2021). Fault detection in CNC machines, Student Association of Graduate Engineers, University of Connecticut, Storrs, USA.
+- ***Awasthi, U.***, Tom Maloney, and Bollas, G. M. (2020). Maintenance Testing in Precision Machining, AIChE, Virtual Meeting, USA. 
+- ***Awasthi, U.***, and Bollas, G. M. (2020). Sensor Network Design for Smart Manufacturing - Application on Precision Machining, IFAC (Vitrual), Berlin, Germany.
+- ***Awasthi, U.***, and Bollas, G. M. (2019). Physics-based models for precision machining, AIChE, Orlando, USA.
+- ***Awasthi, U.***, Palmer, K. A., and Bollas, G. M. (2019). Sensor and test selection for Passive Active fault diagnosis, AIChE, Orlando, USA. 
+- ***Awasthi, U.***, and Bollas, G. M. (2019). Optimal test design and sensor selection for active FDI, INCOSE conference, University of Connecticut, Storrs, USA.
+- ***Awasthi, U.***, Marmier, R., and Grossmann, I. E. (2017). Optimization of production and gas lift for oil wells, Mathais, Paris, France. 
+- ***Awasthi, U.***, Marmier, R., and Grossmann, I. E. (2017).  Oilfield planning, CAPD conference, Pittsburgh, USA. 
+- ***Awasthi, U.***, Marmier, R., and Grossmann, I. E. (2017).  Oilfield planning optimization, Enterprise-wide optimization conference, Pittsburgh,  USA. 
