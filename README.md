@@ -20,7 +20,7 @@ My current research work lies in system health monitoring in the manufacturing i
 
 ## Conference and Poster Presentations
 
-- ***Awasthi, U.***, and Bollas, G. M (2023). Symbolic regression-based method for developing a physics-informed surrogate model for a manufacturing process, $33^{rd}$ European Symposium on Computer-Aided Process Engineering, Athens, Greece.
+- ***Awasthi, U.***, and Bollas, G. M (2023). Symbolic regression-based method for developing a physics-informed surrogate model for a manufacturing process, 33rd European Symposium on Computer-Aided Process Engineering, Athens, Greece.
 - ***Awasthi, U.***, and Bollas, G. M (2023). Application of grey-box modeling for machine state prediction in manufacturing, Foundations of Computer Aided Process Operations/Chemical Process Control, San Antonio, USA.
 - ***Awasthi, U.***, and Bollas, G. M. (2022). Physics-Informed Surrogate Models for Manufacturing Applications, AIChE, Phoenix, USA.
 - ***Awasthi, U.***, Pattipati, K. R., and Bollas, G. M. (2022). Physics-Inspired inferential sensor for tool wear classification in milling, Advanced Manufacturing and Processing Conference,  Bethesda, MD, USA.
