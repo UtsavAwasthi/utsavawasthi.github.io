@@ -17,7 +17,7 @@ My current research work lies in system health monitoring in the manufacturing i
 - Yang, Q., Pattipati, K., ***Awasthi, U.***, and Bollas, G. M. (2022). [Hybrid data-driven and model-informed online tool wear detection in milling machines. Journal of Advanced Maufacturing and Systems.](https://doi.org/10.1016/j.jmsy.2022.04.001)
 - ***Awasthi, U.***, Palmer, K. A., and Bollas, G. M. (2020). [Optimal test and sensor selection for active fault diagnosis using integer programming. Journal of Process Control.](https://doi.org/10.1016/j.jprocont.2020.06.007)
 - ***Awasthi, U.***, and Bollas, G. M. (2020). [Sensor network design for smart manufacturing – Application on precision machining. IFAC-PapersOnLine.](https://doi.org/10.1016/j.ifacol.2020.12.581)
-- - ***Awasthi, U.***, Marmier, R. and Grossmann, I. E. (2020). [Multiperiod optimization model for oilfield production planning: bicriterion optimization and two-stage stochastic programming model. Optimization and Engineering](https://doi.org/10.1007/s11081-019-09455-0)
+- ***Awasthi, U.***, Marmier, R. and Grossmann, I. E. (2020). [Multiperiod optimization model for oilfield production planning: bicriterion optimization and two-stage stochastic programming model. Optimization and Engineering](https://doi.org/10.1007/s11081-019-09455-0)
 
 ## Conference and Poster Presentations
 
