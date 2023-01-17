@@ -8,7 +8,7 @@
 
 I am a Ph.D. student in the Department of Chemical and Biomolecular Engineering and affiliated with the [UTC-Institute of Advanced Systems Engineering](https://utc-iase.uconn.edu/) at the University of Connecticut. I received an M.S. degree in Chemical Engineering with a focus on mathematical programming, optimization, planning, and scheduling from Carnegie Mellon University. I did my undergraduate stuies in Chemical Engineering at the Indian Institute of Technology (IIT) (BHU), Varanasi, India. 
 
-My current research work lies in system health monitoring in the manufacturing industry using physics-based modeling, machine learning, and AI.
+My current research work lies in system health monitoring in the manufacturing industry using physics-based modeling, machine learning, and AI. Im addition, I have worked on planning and sceduling of oil production using mathematical programming and optimization. I have fours years experience in building and deploying Real Time Optimization (RTO) models, experience of advacnced process control and plant operations at Reliance Industries Limited, India.
 
 ## Publications
 
